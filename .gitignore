@@ -1,0 +1,36 @@
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.ico
+*.webp
+
+# Specific image directories
+logos,icons,images/
+
+# Specific image files (if you want to be explicit)
+43339616.jpg
+add_library.png
+album_01.png
+album_02.png
+album_03.png
+album_04.png
+album_05.png
+album_06.png
+artist_01.png
+artist_02.png
+artist_03.png
+artist_04.png
+artist_05.png
+artist_06.png
+home_icon.png
+language_icon.png
+library_icon.png
+photo-of-spotifypage.png
+search_icon_2.png
+search_icon.png
+search_icon3.png
+spotify_logo.png
